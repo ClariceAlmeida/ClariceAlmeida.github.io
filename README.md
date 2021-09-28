@@ -44,6 +44,8 @@ Users should be able to:
 
 I've learned more about the uses of flexbox which i was struggling the most, so it was a good practice.
 
+also, when i submitted the first version i got feedbacks that really helped me understanding what was wrong and most important the reasons why was wrong.
+
 ### Continued development
 
 My plan is to continue studing html and css improving my skills on this technologies and move on to the study of JavaScript in the next months. 

@@ -90,18 +90,21 @@ a {
     border-radius: 30px;
     color: #FFF;
     background-color:#e28525;
+    transition: 1s;
 }
 .btn_cyan:hover {
     border: #FFF solid 1px;
     border-radius: 30px;
     color: #FFF;
     background-color:#016972;
+    transition: 1s;
 }
 .btn_darkcyan:hover {
     border: #FFF solid 1px;
     border-radius: 30px;
     color: #FFF;
     background-color:#00403f;
+    transition: 1s;
 }
 footer {
     margin-right: 25px;
